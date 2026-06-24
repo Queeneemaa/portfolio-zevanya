@@ -4,12 +4,22 @@ const projects = [
   {
     name: "PT Tjakrindo Responsive Catalog",
     desc: "Company catalog built with React & Tailwind",
-    github: "https://github.com/risyadna29/responsive-product-catalog.git",
+    github: "https://github.com/Queeneemaa/responsive-catalog.git",
   },
   {
     name: "Traffic Violating Detection Mobile App",
     desc: "Frontend interface for detecting traffic violations",
     github: "https://github.com/Queeneemaa/laporlantas.git",
+  },
+  {
+    name: "e-ticketing website for events",
+    desc: "Frontend interface for e-ticketing system",
+    github: "https://github.com/Queeneemaa/e-ticketing-website.git",
+  },
+  {
+    name: "Plan care apps",
+    desc: "tanamkuy:A mobile app for planning and managing care routines",
+    github: "https://github.com/Queeneemaa/tanamkuy.git",
   },
 ];
 
