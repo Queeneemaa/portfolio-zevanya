@@ -71,7 +71,7 @@ const Home = () => {
             </h3>
 
             <p className="text-gray-600 leading-8">
-              3.53 / 4.00
+              3.56 / 4.00
             </p>
           </div>
 
