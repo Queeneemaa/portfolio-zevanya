@@ -17,8 +17,8 @@ const projects = [
     github: "https://github.com/Queeneemaa/e-ticketing-website.git",
   },
   {
-    name: "Plan care apps",
-    desc: "tanamkuy:A mobile app for planning and managing care routines",
+    name: "Plant care apps",
+    desc: "tanamkuy: A mobile app for planning and managing care routines",
     github: "https://github.com/Queeneemaa/tanamkuy.git",
   },
 ];
